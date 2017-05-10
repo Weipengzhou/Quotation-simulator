@@ -29,7 +29,7 @@ class Adjustment extends Component {
     let abc = this.props.area //初始面积
     var _this = this;
     ajax({
-      url: "http://www.51ddo.com/api/price", //请求地址
+      url: "http://www.51ddo.com/app_dev.php/api/price", //请求地址
       type: "GET", //请求方式
       data: {
         area: abc
@@ -191,7 +191,7 @@ class Adjustment extends Component {
           <HeaderBackground/>
           <h5>剩余<b>{afterarea}</b>平方米</h5>
         </div>
-        <Text list={select} onHande={this.onChange} area={afterarea}/>
+        <Text list={select} onHande={this.onChange}  area={afterarea}/>
         <div className='button'>
           <Link to='/Pricesheet'>下一步</Link>
         </div>

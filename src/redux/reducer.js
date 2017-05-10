@@ -55,6 +55,7 @@ const reducer = (state = initialState, action) => {
       return Object.assign({}, state, {
         lastPrice:action.text
       });
+  
     default:
       return state;
   }

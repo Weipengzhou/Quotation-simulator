@@ -96,21 +96,21 @@ class Configuration extends Component {
         select: [
           {
             name: '总经理办公室',
-            value:0,
+            value:9,
             number: 0,
             id: 0,
             class: 'one',
             type: 'Gmanager'
           }, {
             name: '会议室',
-            value:0,
+            value:12,
             number: 0,
             id: 7,
             class: 'eight',
             type: 'meeting'
           }, {
             name: '敞开办公区',
-            value:0,
+            value:1,
             number: 0,
             id: 8,
             class: 'nine',
@@ -123,14 +123,14 @@ class Configuration extends Component {
         select: [
           {
             name: '总经理办公室',
-            value:0,
+            value:16,
             number: 0,
             id: 0,
             class: 'one',
             type: 'Gmanager'
           }, {
             name: '经理办公室',
-            value:0,
+            value:12,
             number: 0,
             id: 1,
             class: 'two',
@@ -138,14 +138,14 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:12,
             number: 0,
             id: 7,
             class: 'eight',
             type: 'meeting'
           }, {
             name: '敞开办公区',
-            value:0,
+            value:1,
             number: 0,
             id: 8,
             class: 'nine',
@@ -158,14 +158,14 @@ class Configuration extends Component {
         select: [
           {
             name: '总经理办公室',
-            value:0,
+            value:20,
             number: 0,
             id: 0,
             class: 'one',
             type: 'Gmanager'
           }, {
             name: '经理办公室',
-            value:0,
+            value:12,
             number: 0,
             id: 1,
             class: 'two',
@@ -173,7 +173,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:12,
             number: 0,
             id: 2,
             class: 'three',
@@ -181,14 +181,14 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:16,
             number: 0,
             id: 7,
             class: 'eight',
             type: 'meeting'
           }, {
             name: '敞开办公区',
-            value:0,
+            value:1,
             number: 0,
             id: 8,
             class: 'nine',
@@ -202,14 +202,14 @@ class Configuration extends Component {
         select: [
           {
             name: '总经理办公室',
-            value:0,
+            value:20,
             number: 0,
             id: 0,
             class: 'one',
             type: 'Gmanager'
           }, {
             name: '经理办公室',
-            value:0,
+            value:16,
             number: 0,
             id: 1,
             class: 'two',
@@ -217,7 +217,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:8,
             number: 0,
             id: 2,
             class: 'three',
@@ -225,7 +225,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:8,
             number: 0,
             id: 2,
             class: 'three',
@@ -233,7 +233,7 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:12,
             number: 0,
             id: 7,
             class: 'eight',
@@ -241,7 +241,7 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:18,
             number: 0,
             id: 7,
             class: 'eight',
@@ -249,7 +249,7 @@ class Configuration extends Component {
           },
           {
             name: '敞开办公区',
-            value:0,
+            value:1,
             number: 0,
             id: 8,
             class: 'nine',
@@ -262,14 +262,14 @@ class Configuration extends Component {
         select: [
           {
             name: '总经理办公室',
-            value:0,
+            value:20,
             number: 0,
             id: 0,
             class: 'one',
             type: 'Gmanager'
           }, {
             name: '经理办公室',
-            value:0,
+            value:16,
             number: 0,
             id: 1,
             class: 'two',
@@ -277,7 +277,7 @@ class Configuration extends Component {
           },
           {
             name: '经理办公室',
-            value:0,
+            value:16,
             number: 0,
             id: 1,
             class: 'two',
@@ -285,7 +285,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:10,
             number: 0,
             id: 2,
             class: 'three',
@@ -293,7 +293,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:10,
             number: 0,
             id: 2,
             class: 'three',
@@ -301,7 +301,7 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:28,
             number: 0,
             id: 7,
             class: 'eight',
@@ -309,7 +309,7 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:15,
             number: 0,
             id: 7,
             class: 'eight',
@@ -317,7 +317,7 @@ class Configuration extends Component {
           },
           {
             name: '敞开办公区',
-            value:0,
+            value:1,
             number: 0,
             id: 8,
             class: 'nine',
@@ -325,7 +325,7 @@ class Configuration extends Component {
           },
           {
             name: '储物室',
-            value:0,
+            value:5,
             number: 0,
             id: 6,
             class: 'seven',
@@ -338,14 +338,14 @@ class Configuration extends Component {
         select: [
           {
             name: '总经理办公室',
-            value:0,
+            value:24,
             number: 0,
             id: 0,
             class: 'one',
             type: 'Gmanager'
           }, {
             name: '经理办公室',
-            value:0,
+            value:16,
             number: 0,
             id: 1,
             class: 'two',
@@ -353,7 +353,7 @@ class Configuration extends Component {
           },
           {
             name: '经理办公室',
-            value:0,
+            value:16,
             number: 0,
             id: 1,
             class: 'two',
@@ -361,7 +361,7 @@ class Configuration extends Component {
           },
           {
             name: '经理办公室',
-            value:0,
+            value:16,
             number: 0,
             id: 1,
             class: 'two',
@@ -369,7 +369,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:12,
             number: 0,
             id: 2,
             class: 'three',
@@ -377,7 +377,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:12,
             number: 0,
             id: 2,
             class: 'three',
@@ -385,7 +385,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:8,
             number: 0,
             id: 2,
             class: 'three',
@@ -393,7 +393,7 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:9,
             number: 0,
             id: 7,
             class: 'eight',
@@ -401,7 +401,7 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:20,
             number: 0,
             id: 7,
             class: 'eight',
@@ -417,7 +417,7 @@ class Configuration extends Component {
           },
           {
             name: '储物室',
-            value:0,
+            value:8,
             number: 0,
             id: 6,
             class: 'seven',
@@ -430,14 +430,14 @@ class Configuration extends Component {
         select: [
           {
             name: '总经理办公室',
-            value:0,
+            value:24,
             number: 0,
             id: 0,
             class: 'one',
             type: 'Gmanager'
           }, {
             name: '经理办公室',
-            value:0,
+            value:12,
             number: 0,
             id: 1,
             class: 'two',
@@ -445,7 +445,7 @@ class Configuration extends Component {
           },
           {
             name: '经理办公室',
-            value:0,
+            value:16,
             number: 0,
             id: 1,
             class: 'two',
@@ -453,7 +453,7 @@ class Configuration extends Component {
           },
           {
             name: '经理办公室',
-            value:0,
+            value:16,
             number: 0,
             id: 1,
             class: 'two',
@@ -461,7 +461,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:10,
 
             number: 0,
             id: 2,
@@ -470,7 +470,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:10,
 
             number: 0,
             id: 2,
@@ -479,7 +479,7 @@ class Configuration extends Component {
           },
           {
             name: '部门办公室',
-            value:0,
+            value:10,
 
             number: 0,
             id: 2,
@@ -488,7 +488,7 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:9,
 
             number: 0,
             id: 7,
@@ -497,7 +497,7 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:12,
             number: 0,
             id: 7,
             class: 'eight',
@@ -505,7 +505,7 @@ class Configuration extends Component {
           },
           {
             name: '会议室',
-            value:0,
+            value:20,
             number: 0,
             id: 7,
             class: 'eight',
@@ -521,14 +521,14 @@ class Configuration extends Component {
           },
           {
             name: '储物室',
-            value:0,
+            value:8,
             number: 0,
             id: 6,
             class: 'seven',
             type: 'storage'
           }, {
             name: '茶水间',
-            value:0,
+            value:12,
             number: 0,
             id: 4,
             class: 'five',
@@ -540,12 +540,20 @@ class Configuration extends Component {
 
   }
   handleClickMinus(e) {
+    if(e.result.id==8){
+      alert('敞开办公区为默认配置，请勿删除！');
+      return false
+    }
     const {select, list} = this.state;
     select.splice([e.index], 1)
     list[e.result.id].number -= 1;
     this.setState({select, list})
   }
   handleClick(e) {
+    if(e.result.id==8){
+      alert('敞开办公区数量默认为1，请勿重复添加！');
+      return false
+    } ;
     function compare(prop) {
       return function(obj1, obj2) {
         var val1 = obj1[prop];
