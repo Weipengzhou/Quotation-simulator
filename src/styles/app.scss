@@ -286,11 +286,13 @@ table {
     .eight label span{background:url(../img/eight.png)center no-repeat }
     .nine label span{background:url(../img/nine.png)center no-repeat }
     .ten label span{background:url(../img/ten.png)center no-repeat }
+    .nine{display: none;position: absolute;}
   }
+  h3{color: red;text-align: center;font-weight: 400}
   .button{
     width: 7.5rem;text-align: center;
     a{line-height: 1rem;
-    font-size: 0.34rem;color: #FFF;width: 4.7rem;margin: 2rem auto;height: 1rem;display: block;
+    font-size: 0.34rem;color: #FFF;width: 4.7rem;margin: 1rem auto;height: 1rem;display: block;
     border-radius: 0.1rem;outline:none;
     background-color: rgb(88, 200, 162);
     }

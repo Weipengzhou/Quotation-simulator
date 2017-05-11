@@ -47,15 +47,15 @@ const reducer = (state = initialState, action) => {
         select: action.text
       });
     case 'OFFICE_ADD':
+    console.log(action.text.afterarea)
       return Object.assign({}, state, {
-        afterarea: action.text.afterarea,
-        price: action.text.price
+        afterarea: action.text.afterarea
       });
     case 'LAST_PRICE':
       return Object.assign({}, state, {
         lastPrice:action.text
       });
-  
+
     default:
       return state;
   }
